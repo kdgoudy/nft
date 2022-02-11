@@ -10,4 +10,27 @@ body {
     font-family: 'Outfit', sans-serif;
     background-color: hsl(217, 54%, 11%);
     color: white;
+    text-align: center;
+
 }
+
+.container {
+    text-align: center;
+    margin: auto;
+}
+
+.card {
+    background-color: hsl(216, 50%, 16%);
+    width: 310px;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+}
+
+.imgage {
+    width: 270px;
+    padding-top: 10%;
+}
+
